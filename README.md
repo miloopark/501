@@ -1,1 +1,3 @@
-# Min Sung Park CS501 Assignments
+# CS501 Assignments
+
+Tuesday Section - Min Sung (Milo) Park
